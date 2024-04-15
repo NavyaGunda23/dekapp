@@ -1,0 +1,18 @@
+:root {
+    /* Colors */
+    --primary-color-dark: #141414;
+    --primary-color-light: rgb(0, 29, 220);
+    --button-border: #f0f0f0;
+    --text-color-white:white;
+    --text-color: #333333;
+  --input-border-dark:#333333;
+  --input-border-light:#333333;
+  --table-header-bg-dark:#333;
+  --table-header-bg-light:#686666;
+    /* Typography */
+    --font-family: 'Arial', sans-serif;
+    --font-size: 16px;
+  
+    /* Spacing */
+    --padding: 16px;
+  }
